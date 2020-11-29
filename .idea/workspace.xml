@@ -39,8 +39,8 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Space Invaders">
-    <configuration name="Menú" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Avatars vs Rooks">
+    <configuration name="Avatars vs Rooks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Proyecto1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,7 +53,29 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Menú.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Avatars vs Rooks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Jose Pablo Ramos Madrigal Proyecto 1 Taller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Proyecto1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../Nueva carpeta/Proyecto Taller" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../Nueva carpeta/Proyecto Taller/Jose Pablo Ramos Madrigal Proyecto 1 Taller.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="VLC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="addsadas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Proyecto1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,34 +136,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../Intro-y-taller-master/Proyectos/tp1_haroldespinoza-fabriciomenamejia" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VLC.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="musicabucleprueba" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Proyecto1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/musicabucleprueba.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../Intro-y-taller-master/Proyectos/tp1_haroldespinoza-fabriciomenamejia/addsadas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Space Invaders" />
+        <item itemvalue="Python.Avatars vs Rooks" />
         <item itemvalue="Python.PersonajesPrueba1" />
-        <item itemvalue="Python.VLC" />
-        <item itemvalue="Python.musicabucleprueba" />
-        <item itemvalue="Python.Menú" />
+        <item itemvalue="Python.addsadas" />
+        <item itemvalue="Python.Space Invaders" />
+        <item itemvalue="Python.Jose Pablo Ramos Madrigal Proyecto 1 Taller" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +208,41 @@
       <workItem from="1605753607872" duration="1761000" />
       <workItem from="1605755627288" duration="1196000" />
       <workItem from="1605762761304" duration="2229000" />
+      <workItem from="1605766801631" duration="186000" />
+      <workItem from="1605767903998" duration="24000" />
+      <workItem from="1605797778089" duration="5000" />
+      <workItem from="1605797794087" duration="14000" />
+      <workItem from="1605798167223" duration="1532000" />
+      <workItem from="1605799828115" duration="1878000" />
+      <workItem from="1605810061003" duration="107000" />
+      <workItem from="1605902146035" duration="2060000" />
+      <workItem from="1605905138464" duration="220000" />
+      <workItem from="1605911327515" duration="85000" />
+      <workItem from="1605919435108" duration="57000" />
+      <workItem from="1608520147430" duration="564000" />
+      <workItem from="1608595431575" duration="1720000" />
+      <workItem from="1608597505967" duration="37000" />
+      <workItem from="1606019932418" duration="1038000" />
+      <workItem from="1606148485581" duration="880000" />
+      <workItem from="1606230275319" duration="726000" />
+      <workItem from="1606266775190" duration="4434000" />
+      <workItem from="1606352820561" duration="13995000" />
+      <workItem from="1606451355887" duration="2494000" />
+      <workItem from="1606456726802" duration="218000" />
+      <workItem from="1606512711933" duration="1781000" />
+      <workItem from="1606514566735" duration="7264000" />
+      <workItem from="1609200127314" duration="299000" />
+      <workItem from="1609200441794" duration="525000" />
+      <workItem from="1609202759776" duration="603000" />
+      <workItem from="1609203380175" duration="21000" />
+      <workItem from="1609206839006" duration="51000" />
+      <workItem from="1609206903236" duration="33000" />
+      <workItem from="1609206964004" duration="36000" />
+      <workItem from="1609207027431" duration="9000" />
+      <workItem from="1609207165429" duration="22000" />
+      <workItem from="1609207270182" duration="22000" />
+      <workItem from="1609207314832" duration="68000" />
+      <workItem from="1609207398396" duration="8000" />
     </task>
     <servers />
   </component>
@@ -223,42 +258,42 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="766" y="301" key="FileChooserDialogImpl/0.0.1920.1080/-1920.-469.1920.1080@0.0.1920.1080" timestamp="1604881336562" />
-    <state width="847" height="192" key="GridCell.Tab.0.bottom" timestamp="1605765007132">
+    <state width="1245" height="296" key="GridCell.Tab.0.bottom" timestamp="1609207410569">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1395" height="192" key="GridCell.Tab.0.bottom/0.0.1440.1080/-1920.-469.1920.1080@0.0.1440.1080" timestamp="1605763231159" />
-    <state width="847" height="192" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.-469.1920.1080@0.0.1920.1080" timestamp="1605765007132" />
-    <state width="847" height="192" key="GridCell.Tab.0.center" timestamp="1605765007131">
+    <state width="847" height="329" key="GridCell.Tab.0.bottom/0.0.1440.1080/-1920.-469.1920.1080@0.0.1440.1080" timestamp="1605919492043" />
+    <state width="1245" height="296" key="GridCell.Tab.0.bottom/0.0.1920.1080/-1920.-469.1920.1080@0.0.1920.1080" timestamp="1609207410569" />
+    <state width="1245" height="296" key="GridCell.Tab.0.center" timestamp="1609207410569">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1395" height="192" key="GridCell.Tab.0.center/0.0.1440.1080/-1920.-469.1920.1080@0.0.1440.1080" timestamp="1605763231159" />
-    <state width="847" height="192" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.-469.1920.1080@0.0.1920.1080" timestamp="1605765007131" />
-    <state width="847" height="192" key="GridCell.Tab.0.left" timestamp="1605765007131">
+    <state width="847" height="329" key="GridCell.Tab.0.center/0.0.1440.1080/-1920.-469.1920.1080@0.0.1440.1080" timestamp="1605919492043" />
+    <state width="1245" height="296" key="GridCell.Tab.0.center/0.0.1920.1080/-1920.-469.1920.1080@0.0.1920.1080" timestamp="1609207410569" />
+    <state width="1245" height="296" key="GridCell.Tab.0.left" timestamp="1609207410569">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1395" height="192" key="GridCell.Tab.0.left/0.0.1440.1080/-1920.-469.1920.1080@0.0.1440.1080" timestamp="1605763231159" />
-    <state width="847" height="192" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.-469.1920.1080@0.0.1920.1080" timestamp="1605765007131" />
-    <state width="847" height="192" key="GridCell.Tab.0.right" timestamp="1605765007132">
+    <state width="847" height="329" key="GridCell.Tab.0.left/0.0.1440.1080/-1920.-469.1920.1080@0.0.1440.1080" timestamp="1605919492043" />
+    <state width="1245" height="296" key="GridCell.Tab.0.left/0.0.1920.1080/-1920.-469.1920.1080@0.0.1920.1080" timestamp="1609207410569" />
+    <state width="1245" height="296" key="GridCell.Tab.0.right" timestamp="1609207410569">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1395" height="192" key="GridCell.Tab.0.right/0.0.1440.1080/-1920.-469.1920.1080@0.0.1440.1080" timestamp="1605763231159" />
-    <state width="847" height="192" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.-469.1920.1080@0.0.1920.1080" timestamp="1605765007132" />
-    <state width="1875" height="364" key="GridCell.Tab.1.bottom" timestamp="1608274951271">
+    <state width="847" height="329" key="GridCell.Tab.0.right/0.0.1440.1080/-1920.-469.1920.1080@0.0.1440.1080" timestamp="1605919492043" />
+    <state width="1245" height="296" key="GridCell.Tab.0.right/0.0.1920.1080/-1920.-469.1920.1080@0.0.1920.1080" timestamp="1609207410569" />
+    <state width="1875" height="364" key="GridCell.Tab.1.bottom" timestamp="1606372205688">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="364" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.-469.1920.1080@0.0.1920.1080" timestamp="1608274951271" />
-    <state width="1875" height="364" key="GridCell.Tab.1.center" timestamp="1608274951271">
+    <state width="1875" height="364" key="GridCell.Tab.1.bottom/0.0.1920.1080/-1920.-469.1920.1080@0.0.1920.1080" timestamp="1606372205688" />
+    <state width="1875" height="364" key="GridCell.Tab.1.center" timestamp="1606372205688">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="364" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.-469.1920.1080@0.0.1920.1080" timestamp="1608274951271" />
-    <state width="1875" height="364" key="GridCell.Tab.1.left" timestamp="1608274951271">
+    <state width="1875" height="364" key="GridCell.Tab.1.center/0.0.1920.1080/-1920.-469.1920.1080@0.0.1920.1080" timestamp="1606372205688" />
+    <state width="1875" height="364" key="GridCell.Tab.1.left" timestamp="1606372205688">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="364" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.-469.1920.1080@0.0.1920.1080" timestamp="1608274951271" />
-    <state width="1875" height="364" key="GridCell.Tab.1.right" timestamp="1608274951271">
+    <state width="1875" height="364" key="GridCell.Tab.1.left/0.0.1920.1080/-1920.-469.1920.1080@0.0.1920.1080" timestamp="1606372205688" />
+    <state width="1875" height="364" key="GridCell.Tab.1.right" timestamp="1606372205688">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1875" height="364" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.-469.1920.1080@0.0.1920.1080" timestamp="1608274951271" />
+    <state width="1875" height="364" key="GridCell.Tab.1.right/0.0.1920.1080/-1920.-469.1920.1080@0.0.1920.1080" timestamp="1606372205688" />
     <state x="163" y="245" width="998" height="730" key="SettingsEditor" timestamp="1605414074085">
       <screen x="0" y="0" width="1440" height="1080" />
     </state>
@@ -280,37 +315,48 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="606" y="441" width="702" height="361" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1920.1080/-1920.-469.1920.1080@0.0.1920.1080" timestamp="1605404994102" />
-    <state x="636" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1605062935641">
+    <state x="636" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1606021694252">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="636" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.-469.1920.1080@0.0.1920.1080" timestamp="1605062935641" />
+    <state x="636" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.-469.1920.1080@0.0.1920.1080" timestamp="1606021694252" />
+    <state x="682" y="451" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1609200532410">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="682" y="451" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1080/-1920.-469.1920.1080@0.0.1920.1080" timestamp="1609200532410" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PersonajesPrueba1_py$musicabucleprueba.coverage" NAME="musicabucleprueba Coverage Results" MODIFIED="1608272685848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Fondo_con_sonido_py$gtafsa.coverage" NAME="gtafsa Coverage Results" MODIFIED="1604881127768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PersonajesPrueba1_py$Space_Invaders.coverage" NAME="Space Invaders Coverage Results" MODIFIED="1605764908374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Intro-y-taller-master/Proyectos/tp1_haroldespinoza-fabriciomenamejia" />
+    <SUITE FILE_PATH="coverage/PersonajesPrueba1_py$Tuto2.coverage" NAME="Tuto2 Coverage Results" MODIFIED="1608596875333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PersonajesPrueba1_py$Space_Invaders.coverage" NAME="Space Invaders Coverage Results" MODIFIED="1606452843271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Intro-y-taller-master/Proyectos/tp1_haroldespinoza-fabriciomenamejia" />
+    <SUITE FILE_PATH="coverage/Avatars_vs_Rooks_py$PersonajesPrueba1.coverage" NAME="PersonajesPrueba1 Coverage Results" MODIFIED="1609200262621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/VLC_py$Fondo_con_sonido.coverage" NAME="Fondo con sonido Coverage Results" MODIFIED="1604905748758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Fondo_con_sonido_py$PersonajesPrueba1.coverage" NAME="PersonajesPrueba1 Coverage Results" MODIFIED="1605043059751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Avatars_vs_Rooks_py$Avatars_vs_Rooks.coverage" NAME="Avatars vs Rooks Coverage Results" MODIFIED="1609207399031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Proyecto1$Ventana.coverage" NAME="Ventana Coverage Results" MODIFIED="1604873527736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PersonajesPrueba1_py$Jose_Pablo_Ramos_Madrigal_Proyecto_1_Taller.coverage" NAME="Jose Pablo Ramos Madrigal Proyecto 1 Taller Coverage Results" MODIFIED="1606268806034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../../Nueva carpeta/Proyecto Taller" />
     <SUITE FILE_PATH="coverage/Fondo_con_sonido_py$Menú.coverage" NAME="Menú Coverage Results" MODIFIED="1605049462643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Ventana_py$Menú.coverage" NAME="Menú Coverage Results" MODIFIED="1605060497577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PersonajesPrueba1_py$VLC.coverage" NAME="VLC Coverage Results" MODIFIED="1608274881977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PersonajesPrueba1_py$Playsound.coverage" NAME="Playsound Coverage Results" MODIFIED="1604878001487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Error_py$Error.coverage" NAME="Error Coverage Results" MODIFIED="1605799428754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Ventana_py$VLC.coverage" NAME="VLC Coverage Results" MODIFIED="1604904371178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Fondo_con_sonido_py$Musica.coverage" NAME="Musica Coverage Results" MODIFIED="1604882185952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/VLC_py$VLC.coverage" NAME="VLC Coverage Results" MODIFIED="1604905420069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Ventana_py$Ventana.coverage" NAME="Ventana Coverage Results" MODIFIED="1605628907129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PersonajesPrueba1_py$Ventana.coverage" NAME="Ventana Coverage Results" MODIFIED="1605417724000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PersonajesPrueba1_py$Fondo1.coverage" NAME="Fondo1 Coverage Results" MODIFIED="1605421636122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PersonajesPrueba1_py$Ventana.coverage" NAME="Ventana Coverage Results" MODIFIED="1608596059814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Ventana_py$Fondo1.coverage" NAME="Fondo1 Coverage Results" MODIFIED="1605544155787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Fondo_con_sonido_py$dsa.coverage" NAME="dsa Coverage Results" MODIFIED="1604883531935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Error_py$PersonajesPrueba1.coverage" NAME="PersonajesPrueba1 Coverage Results" MODIFIED="1605799668860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Fondo_con_sonido_py$Ventana.coverage" NAME="Ventana Coverage Results" MODIFIED="1605050208581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ahah_py$ahah.coverage" NAME="ahah Coverage Results" MODIFIED="1604879049817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PersonajesPrueba1_py$addsadas.coverage" NAME="addsadas Coverage Results" MODIFIED="1606456742660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../Intro-y-taller-master/Proyectos/tp1_haroldespinoza-fabriciomenamejia" />
     <SUITE FILE_PATH="coverage/Fondo_con_sonido_py$Fondo_con_sonido.coverage" NAME="Fondo con sonido Coverage Results" MODIFIED="1604885262885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Ventana_py$Fondo_con_sonido.coverage" NAME="Fondo con sonido Coverage Results" MODIFIED="1604907983578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Fondo_con_sonido_py$Fondo1.coverage" NAME="Fondo1 Coverage Results" MODIFIED="1605044009552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Tuto_py$Tuto.coverage" NAME="Tuto Coverage Results" MODIFIED="1605581750929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PersonajesPrueba1_py$PersonajesPrueba1.coverage" NAME="PersonajesPrueba1 Coverage Results" MODIFIED="1605764871561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PersonajesPrueba1_py$PersonajesPrueba1.coverage" NAME="PersonajesPrueba1 Coverage Results" MODIFIED="1606522611937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PersonajesPrueba1_py$Menú.coverage" NAME="Menú Coverage Results" MODIFIED="1608272680873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Tuto_py$Fondo1.coverage" NAME="Fondo1 Coverage Results" MODIFIED="1605581657412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Ventana_py$PersonajesPrueba1.coverage" NAME="PersonajesPrueba1 Coverage Results" MODIFIED="1605406730389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
